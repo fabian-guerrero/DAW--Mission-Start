@@ -1,0 +1,19 @@
+{
+  "name": "01-mission-start",
+  "version": "1.0.0",
+  "description": "Auditoría de Rendimiento y Estandarización del Workspace en \"NextGen Web Solutions\"",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.3",
+    "eslint-config-google": "^0.14.0",
+    "globals": "^17.4.0"
+  }
+}
